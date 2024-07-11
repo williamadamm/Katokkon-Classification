@@ -1,0 +1,13 @@
+train: C:\Users\Liamm\Documents\project katokkonEX\yolov8\datasets\katokkon_abc_only_v9\train\images
+val: C:\Users\Liamm\Documents\project katokkonEX\yolov8\datasets\katokkon_abc_only_v9\valid\images
+test: C:\Users\Liamm\Documents\project katokkonEX\yolov8\datasets\katokkon_abc_only_v9\test\images
+
+nc: 5
+names: ['Defect', 'Fly-bites', 'Grade-A', 'Grade-B', 'striped']
+
+roboflow:
+  workspace: unhas-9yowg
+  project: katokkon_abc_only
+  version: 9
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/unhas-9yowg/katokkon_abc_only/dataset/9

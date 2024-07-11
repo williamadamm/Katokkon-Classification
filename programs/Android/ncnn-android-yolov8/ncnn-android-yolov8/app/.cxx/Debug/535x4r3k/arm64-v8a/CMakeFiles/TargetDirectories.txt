@@ -1,0 +1,3 @@
+C:/Users/Liamm/Documents/Project katokkon/model/android/app/ncnn-android-yolov8/app/.cxx/Debug/535x4r3k/arm64-v8a/CMakeFiles/yolov8ncnn.dir
+C:/Users/Liamm/Documents/Project katokkon/model/android/app/ncnn-android-yolov8/app/.cxx/Debug/535x4r3k/arm64-v8a/CMakeFiles/edit_cache.dir
+C:/Users/Liamm/Documents/Project katokkon/model/android/app/ncnn-android-yolov8/app/.cxx/Debug/535x4r3k/arm64-v8a/CMakeFiles/rebuild_cache.dir

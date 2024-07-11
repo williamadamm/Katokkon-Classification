@@ -1,0 +1,8 @@
+# ninja log v5
+12	1384	730999964	CMakeFiles/yolov8ncnn.dir/ndkcamera.cpp.o	bdbcf70218f42eb1
+0	1412	730999964	CMakeFiles/yolov8ncnn.dir/yolov8ncnn.cpp.o	7716cec1e0aed90e
+5	1534	730999964	CMakeFiles/yolov8ncnn.dir/yolo.cpp.o	350589cdacaca1d5
+1534	1919	730999964	C:/Users/Liamm/Documents/Project katokkon/model/android/app/ncnn-android-yolov8/app/build/intermediates/cxx/Debug/535x4r3k/obj/x86_64/libyolov8ncnn.so	5482cc992cf11b16
+7	1712	733040389	CMakeFiles/yolov8ncnn.dir/yolo.cpp.o	350589cdacaca1d5
+1712	2302	733040390	C:/Users/Liamm/Documents/Project katokkon/model/android/app/ncnn-android-yolov8/app/build/intermediates/cxx/Debug/535x4r3k/obj/x86_64/libyolov8ncnn.so	5482cc992cf11b16
+0	6	0	clean	9b9a44c13306f8bd
